@@ -4,3 +4,4 @@ library("dplyr")
 library("ggplot2")
 
 Swiss <- y[3, 5, 6, 9]
+#удалить
